@@ -1,0 +1,45 @@
+.durable__materials {
+    background-color: #fff;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.durable__materials-container {
+    display: flex;
+}
+
+.durable__materials-text {
+    padding-right: 60px;
+}
+
+.durable__materials-header {
+    padding-top: 56px;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 38px;
+    color: #222F33;
+}
+
+.durable__materials-p {
+    width: 400px;
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 26px;
+    color: #646D70;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 41px;
+}
+
+.read__more {
+    border: 1px solid #646D70;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    padding: 10px 13.5px;
+    background-color: #fff;
+    color: #606B74;
+}
